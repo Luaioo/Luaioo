@@ -19,11 +19,12 @@
 [![website](./img/globe-light.svg)](https://shehabshalan.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://shehabshalan.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/shehab-sha-lan-a66b95125#gh-light-mode-only)
+
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/shehab-sha-lan-a66b95125#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/shehab.shalan#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/shehab.shalan#gh-dark-mode-only)
+![linkedin-light](https://user-images.githubusercontent.com/68829493/161972707-d4e64fe6-fa6f-4d31-bdd2-a45d986d6c29.svg)
 
 
 
