@@ -5,9 +5,9 @@
 <img src="https://komarev.com/ghpvc/?username=Luaioo&label=Profile%20views&color=0e75b6&style=flat" alt="Luaioo" /> 
 </p>
 
-- 🔭 I’m currently Student as a Cyber Security Engineer (Pentester) in Malaysia
+- 🔭 I’m currently a Master Student in Cyber Security (Pentester) in Malaysia
 
-- 👯 I’m looking to collaborate on **Security Projects Involving Automation And Monitoring**
+- 👯 I’m looking to collaborate on **Security Projects**
 
 - 👨‍💻 My old writeups can be found at - Luai.site
 
