@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luai</h1>
 <h3 align="center">A passionate infosec guy from Yemen trying to achieve the impossible.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h33tlit&label=Profile%20views&color=0e75b6&style=flat" alt="h33tlit" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Luaioo&label=Profile%20views&color=0e75b6&style=flat" alt="Luaioo" /> 
+</p>
 
 - 🔭 I’m currently Student as a Cyber Security Engineer (Pentester) in Malaysia
 
