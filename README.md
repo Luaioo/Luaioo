@@ -16,14 +16,14 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://shehabshalan.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://shehabshalan.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://Luai.site#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://Luai.site#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/shehab-sha-lan-a66b95125#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/shehab-sha-lan-a66b95125#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/Luaioo#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/Luaioo#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/shehab.shalan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/shehab.shalan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/Luaioo#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/Luaioo#gh-dark-mode-only)
 
 
 ### Languages and Tools:
