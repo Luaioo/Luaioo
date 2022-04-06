@@ -11,12 +11,22 @@
 
 - 👨‍💻 My old writeups can be found at - Luai.site
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/Luaioo" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alnazi-h33t" height="30" width="40" />
-</a>
-</p>
+
+
+
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://shehabshalan.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://shehabshalan.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/shehab-sha-lan-a66b95125#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/shehab-sha-lan-a66b95125#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/shehab.shalan#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/shehab.shalan#gh-dark-mode-only)
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
