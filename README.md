@@ -22,8 +22,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/Luaioo#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/Luaioo#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/Luaioo#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/Luaioo#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/Gax0x65#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Gax0x65#gh-dark-mode-only)
 
 
 ### Languages and Tools:
