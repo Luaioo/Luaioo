@@ -9,15 +9,15 @@
 
 - 👯 I’m looking to collaborate on **Security Projects**
 
-- 👨‍💻 My old writeups can be found at - Luai.site
+- 👨‍💻 My old writeups can be found at - Luaioo.com
 
 
 
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://Luai.site#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://Luai.site#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://Luaioo.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://Luaioo.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/Luaioo#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/Luaioo#gh-dark-mode-only)
@@ -40,10 +40,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
-  
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
- </a> 
+
   
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
