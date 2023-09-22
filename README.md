@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=Luaioo&label=Profile%20views&color=0e75b6&style=flat" alt="Luaioo" /> 
 </p>
 
-- 🔭 I’m currently a Master Student in Cyber Security (Pentester) in Malaysia
+- 🔭 I’m a Master Graduate in Cyber Security (Pentester) in Saudi Arabia
 
 - 👯 I’m looking to collaborate on **Security Projects**
 
