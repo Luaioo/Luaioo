@@ -16,14 +16,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://Luaioo.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://Luaioo.com#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/Luaioo#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/Luaioo#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Gax0x65#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Gax0x65#gh-dark-mode-only)
 
 
 ### Languages and Tools:
