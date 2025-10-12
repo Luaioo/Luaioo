@@ -1,15 +1,15 @@
 <h1 align="center">Hi there 👋, I am Luai </h1>
-<h3 align="center">A passionate infosec guy from Yemen trying to achieve the impossible.</h3>
+<h3 align="center">A passionate infosec guy trying to achieve the impossible.</h3>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Luaioo&label=Profile%20views&color=0e75b6&style=flat" alt="Luaioo" /> 
 </p>
 
-- 🔭 I’m a Master Graduate in Cyber Security (Pentester) in Saudi Arabia
+- 🔭 I’m a Master Graduate in Cyber Security
 
 - 👯 I’m looking to collaborate on **Security Projects**
 
-- 👨‍💻 My old writeups can be found at - Luaioo.com
+
 
 
 
