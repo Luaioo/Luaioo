@@ -1,64 +1,40 @@
-<h1 align="center">Hi there 👋, I am Luai </h1>
-<h3 align="center">A passionate infosec guy trying to achieve the impossible.</h3>
+<h1 align="">Hi there 👋,</h1>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Luaioo&label=Profile%20views&color=0e75b6&style=flat" alt="Luaioo" /> 
+<p align="">
+<img src="https://komarev.com/ghpvc/?username=Luaioo&label=Profile%20views&color=0e75b6&style=flat" alt="Luaioo"/>
 </p>
 
-- 🔭 I’m a Master Graduate in Cyber Security
-
-- 👯 I’m looking to collaborate on **Security Projects**
-
+## About Me
+I am **Luai Al Mesbahi**, a Master Graduate in **Information Security**. I am a highly motivated individual with a passion for problem-solving and continuous self-learning, seeking a challenging role to gain practical experience and contribute to organizational success.  
 
 
+## Languages, Frameworks, and Tools
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0067B8?style=for-the-badge&logo=microsoft&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 
 
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/Luaioo#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/Luaioo#gh-dark-mode-only)
+## Projects
+##### [Helpdesk System](https://github.com/Luaioo/Help-Desk-System) - A C# ASP.NET web application for managing user tickets.
 
 
-### Languages and Tools:
-<p align="left"> 
-  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Luaioo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luaialmesbahi@gmail.com)
 
-  
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
- </a> 
-  
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-</p>
 
-<p>
-<a href="https://github.com/Luaioo">
-  <table>
-    <tr>
-      <td>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luaioo&show_icons=true&theme=radical" />
-      </td>
-      <td>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luaioo&theme=radical&layout=compact&exclude_lang=java+r" />
-      </td>
-    </tr>
-  </table>
-</a>
-</p>
+
 
 
 
